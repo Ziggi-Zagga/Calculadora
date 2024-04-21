@@ -7,6 +7,7 @@
  *
  * @author Alumnado
  */
+//Esto es un comentario para el ejercicio 6
 public class Calculadora {
 // ESTO ES UN COMENTARIO PARA MODIFICAR LA CLASE CALCULADORA    
 // ESTO ES OTRO COMENTARIO PARA MODIFICAR LA CLASE CALCULADORA
